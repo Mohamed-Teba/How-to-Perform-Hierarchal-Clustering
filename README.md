@@ -1,6 +1,6 @@
 # 🌳 How to Perform Hierarchical Clustering 📊
 
-Welcome to the **How to Perform Hierarchical Clustering** project! 🚀 This project demonstrates the application of **hierarchical clustering** to group data points into meaningful clusters based on their similarity. By exploring agglomerative and divisive clustering techniques, this system provides a clear guide to clustering data effectively. 🌟
+This Repo demonstrates the application of **hierarchical clustering** to group data points into meaningful clusters based on their similarity. By exploring agglomerative and divisive clustering techniques, this system provides a clear guide to clustering data effectively. 🌟
 
 ---
 
